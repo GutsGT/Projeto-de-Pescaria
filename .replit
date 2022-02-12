@@ -1,0 +1,2 @@
+language = "nodejs"
+run = "node ocma bot_A bot_B"
